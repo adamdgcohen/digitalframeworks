@@ -1,1 +1,7 @@
+# Swampy summers and energy use in the nation's capital
 
+I recently moved from Chicago to Washington, D.C. As summer approaches, many people I talk to take it upon themselves to warn me what the city is like during the warmest months of the year. "Swampy” and “miserable” are two words I hear tossed around a lot. All this hype led me to wonder if a need for non-stop air conditioning during D.C.’s uniquely humid summers leads to inordinately high per-capita energy use.
+
+To answer this question, I will use the [U.S. Electric System Operating Data](https://www.eia.gov/realtime_grid/#/data/table?end=20180401&start=20170801&frequency=Monthly&bas=0&regions=08) tool. This repository provides hourly, daily, and weekly electricity demand data for each of the nation’s 66 balancing authorities, the regional organizations responsible for managing the energy supplied by local electricity grids.
+
+The data is collected by the U.S. Energy Information Administration (EIA), an agency of the U.S. Department of Energy. The uniform EIA-930 survey is inherently more consistent than the data that each balancing authority collects independently. The EIA surveys in real time, providing verifiable hourly data, then calculates aggregate values to provide a picture of what monthly energy demand looks like for 13 regions in the 48 contiguous states. I will use this information to compare D.C.’s Mid-Atlantic region to the rest of the country.
