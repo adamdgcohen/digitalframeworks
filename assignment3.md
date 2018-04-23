@@ -11,6 +11,6 @@ In recent years, the NBA has upended its tradition of having home teams wear lig
 Let's say that we had been tracking the Chicago Bulls over the last several seasons. Here is what the database would look like:
 
 Date | Jersey Worn | Opponent | Home/Away | National TV
-- | - | - | - | -
+---- | ----------- | -------- | --------- | -----------
 2012/03/12 | Los Bulls | New York Knicks | Home | Yes (ESPN)
 2012/03/19 | Los Bulls | Orlando Magic | Away | Yes (TNT)
