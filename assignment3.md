@@ -8,7 +8,7 @@ In recent years, the NBA has upended its tradition of having home teams wear lig
 * Whether it was home or away game for the team being tracked
 * Whether the game was nationally broadcast
 
-I will collect the data using [ESPN's game recaps] (http://www.espn.com/nba/game?gameId=400975785).
+I will collect the data using [ESPN's game recaps](http://www.espn.com/nba/game?gameId=400975785).
 
 Let's say that we had been tracking the Chicago Bulls over the last several seasons. Here is what a few entries in the database would look like:
 
